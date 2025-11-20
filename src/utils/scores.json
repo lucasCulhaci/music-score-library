@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Title",
+    "subtitle": "Subtitle",
+    "composer": "Composer",
+    "musical_key": "Musical Key",
+    "amount_of_pages": 0,
+    "pdf_url": "PDF URL",
+    "mp3_url": "MP3 URL"
+  },
+  {
+    "title": "Rasputin",
+    "subtitle": "Russian Ragtime & Funk Overload",
+    "composer": "Rafal Bienias",
+    "musical_key": "D Minor",
+    "amount_of_pages": 4,
+    "pdf_url": "PDF URL",
+    "mp3_url": "MP3 URL"
+  },
+  {
+    "title": "River Flows In You",
+    "subtitle": null,
+    "composer": "Yiruma",
+    "musical_key": "D Mayor",
+    "amount_of_pages": 5,
+    "pdf_url": "PDF URL",
+    "mp3_url": "MP3 URL"
+  },
+  {
+    "title": "Sealed Vessel",
+    "subtitle": "Hollow Knight",
+    "composer": "Christopher Larkin",
+    "musical_key": "G Major",
+    "amount_of_pages": 5,
+    "pdf_url": "PDF URL",
+    "mp3_url": "MP3 URL"
+  },
+  {
+    "title": "Shreveport Stomp",
+    "subtitle": "Recorded June 9th, 1924",
+    "composer": "\"Jelly Roll\" Morton",
+    "musical_key": "G Minor",
+    "amount_of_pages": 9,
+    "pdf_url": "PDF URL",
+    "mp3_url": "MP3 URL"
+  },
+  {
+    "title": "Snow Cult Scuffle",
+    "subtitle": "From the Cuphead DLC",
+    "composer": "Kristofer Maddigan",
+    "musical_key": "Ab Major",
+    "amount_of_pages": 8,
+    "pdf_url": "PDF URL",
+    "mp3_url": "MP3 URL"
+  },
+  {
+    "title": "Tetris Ragtime",
+    "subtitle": "/",
+    "composer": "David Di Bello's",
+    "musical_key": "C Major",
+    "amount_of_pages": 5,
+    "pdf_url": "PDF URL",
+    "mp3_url": "MP3 URL"
+  },
+  {
+    "title": "That's Life - Frank Sinatra",
+    "subtitle": null,
+    "composer": "Dean Kay / Kelly Gordon",
+    "musical_key": "G Major",
+    "amount_of_pages": 6,
+    "pdf_url": "PDF URL",
+    "mp3_url": "MP3 URL"
+  },
+  {
+    "title": "The Fairly Oddparents Theme Song",
+    "subtitle": "(short piano arr.)",
+    "composer": "Ron Jones / Butch Hartman",
+    "musical_key": "F Major",
+    "amount_of_pages": 2,
+    "pdf_url": "PDF URL",
+    "mp3_url": "MP3 URL"
+  },
+  {
+    "title": "Tuner Trouble",
+    "subtitle": ":",
+    "composer": "Cameron Lee Simpson",
+    "musical_key": "C Major",
+    "amount_of_pages": 8,
+    "pdf_url": "PDF URL",
+    "mp3_url": "MP3 URL"
+  },
+  {
+    "title": "Paint the Roses Red",
+    "subtitle": "From Twisted-Wonderland",
+    "composer": "Alisha",
+    "musical_key": "F Major",
+    "amount_of_pages": 4,
+    "pdf_url": "PDF URL",
+    "mp3_url": "MP3 URL"
+  }
+]
